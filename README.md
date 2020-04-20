@@ -14,7 +14,7 @@ what is my Facebook ID :  https://es.piliapp.com/facebook/id/
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/BluForce-FB
+* git clone https://github.com/CLAYSHACKER/BLUFORCE-FB
 
 * cd BluForce-FB
 
@@ -26,5 +26,5 @@ what is my Facebook ID :  https://es.piliapp.com/facebook/id/
 
 <h3> Paypal donations: </h3>
 
-* https://www.paypal.me/AngelSecurityTeam
+* https://www.paypal.me/clayshacker
 
